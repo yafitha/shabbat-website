@@ -16,7 +16,6 @@ header {
     justify-content: left; /* Center the nav items horizontally */
   }
   
-  
   nav a {
     text-decoration: none; /* Remove underlines from links */
     color: black; /* Set the link text color */
