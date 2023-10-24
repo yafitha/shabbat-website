@@ -1,5 +1,7 @@
 .container{
-  
+    background-image: url('../assets/images/learning-Shabbat.png');
+    background-size:cover;
     background-repeat: no-repeat; /* Prevent image repetition */
+    min-height: 180vh;
     height: 100vh;
 }

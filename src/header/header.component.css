@@ -2,7 +2,7 @@ header {
     display: flex; /* Display the logo and nav items horizontally */
     justify-content: space-between; /* Align the logo and nav items at each end */
     align-items: center; /* Vertically center the content within the header */
-    height: 130px; /* Set the header's height (adjust as needed) */
+    height: 90px; /* Set the header's height (adjust as needed) */
   }
   
   .logo {

@@ -10,9 +10,6 @@ body, html {
 .container {
   display: flex;
   flex-direction: column;
-  background-image: url('../assets/images/learning-Shabbat.png');
-  background-size:cover;
-  min-height: 180vh;
 }
 
 .main-section {
