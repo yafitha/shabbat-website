@@ -1,0 +1,9 @@
+<header>
+  <img src="../assets/images/logo-no-background.png" style="width: 100px;margin-left: 20px;">
+  <nav>
+      <div *ngFor="let link of links">
+          <a ngbNavLink [routerLink]="link.fragment">{{ link.title }}</a>
+      </div>
+  </nav>
+ 
+</header>

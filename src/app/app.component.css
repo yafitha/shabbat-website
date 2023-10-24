@@ -1,0 +1,21 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* #E0C3F4 */
+.container {
+  display: flex;
+  flex-direction: column;
+  background-image: url('../assets/images/learning-Shabbat.png');
+  background-size:cover;
+  min-height: 180vh;
+}
+
+.main-section {
+  flex: 1;
+  overflow: auto;
+}

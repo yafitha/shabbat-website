@@ -1,0 +1,31 @@
+header {
+    display: flex; /* Display the logo and nav items horizontally */
+    justify-content: space-between; /* Align the logo and nav items at each end */
+    align-items: center; /* Vertically center the content within the header */
+    height: 130px; /* Set the header's height (adjust as needed) */
+  }
+  
+  .logo {
+    font-size: 24px; /* Adjust the font size as needed */
+    color: black; /* Set the logo text color */
+    margin: 200px;
+  }
+  nav {
+    display: flex; /* Display the nav items horizontally */
+    align-items: center; /* Vertically center the nav items */
+    justify-content: left; /* Center the nav items horizontally */
+  }
+  
+  nav a {
+    text-decoration: none; /* Remove underlines from links */
+    color: black; /* Set the link text color */
+    margin-right:30px; /* Add spacing between the links (adjust as needed) */
+    height: 100%; /* Set the link height to 100% of the header's height */
+    display: flex; /* Display link content vertically centered */
+    align-items: center; /* Vertically center the link content */
+    font-size: 20px;
+  }
+  
+  nav a:hover {
+    color: lightcoral; /* Change the link text color on hover (adjust as needed) */
+  }

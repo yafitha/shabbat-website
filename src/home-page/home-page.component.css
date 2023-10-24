@@ -1,0 +1,5 @@
+.container{
+  
+    background-repeat: no-repeat; /* Prevent image repetition */
+    height: 100vh;
+}
