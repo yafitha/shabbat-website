@@ -4,4 +4,5 @@
     background-repeat: no-repeat; /* Prevent image repetition */
     min-height: 180vh;
     height: 100vh;
+    clip-path: inset(40px 0 0 0);
 }
